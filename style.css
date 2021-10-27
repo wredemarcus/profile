@@ -80,6 +80,10 @@ h2{
   font-size: 200%;
 }
 
+.social-media-icon:hover{
+  color: #1F271B;
+}
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
