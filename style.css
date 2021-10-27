@@ -17,6 +17,7 @@ body{
   padding-bottom: 30px;
   border: 1px solid lightgrey;
   border-radius: 15px;
+  box-shadow: 5px 5px 5px  #AEB4A9;
 }
 
 .img_profile{
@@ -78,6 +79,7 @@ h2{
 .social-media-icon{
   color: #AEB4A9;
   font-size: 200%;
+  transition: .5s;
 }
 
 .social-media-icon:hover{
